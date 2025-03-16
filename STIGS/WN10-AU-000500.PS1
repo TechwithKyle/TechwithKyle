@@ -25,7 +25,20 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# Windows Registry Editor Version 5.00
+# Define the registry path
+$regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application]
-"MaxSize"=dword:00008000
+# Define the property name and value (32MB in KB)
+$propertyName = "MaxSize"
+$propertyValue = 32768  # 0x00008000 in hexadecimal
+
+# Check if the registry path exists, if not, create it
+if (-not (Test-Path $regPath)) {
+    New-Item -Path $regPath -Force | Out-Null
+}
+
+# Set the MaxSize value
+New-ItemProperty -Path $regPath -Name $propertyName -Value $propertyValue -PropertyType DWord -Force
+
+# Confirm the change
+Get-ItemProperty -Path $regPath | Select-Object $propertyName
