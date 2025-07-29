@@ -12,7 +12,8 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechwithKyle/threat-hunting-scenario-tor)**
 - **[Devices-Accidentally-Exposed-to-the-Internet](https://github.com/TechwithKyle/Devices-Accidentally-Exposed-to-the-Internet/tree/main)**
-- **[Sudden-Network-Slowdowns](https://github.com/TechwithKyle/Sudden-Network-Slowdowns)** 
+- **[Sudden-Network-Slowdowns](https://github.com/TechwithKyle/Sudden-Network-Slowdowns)**
+- **[Suspected Data Exfiltration from PIPd Employee](https://github.com/TechwithKyle/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 
 
 <hr/>
