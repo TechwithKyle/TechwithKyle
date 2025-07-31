@@ -5,8 +5,8 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- [Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -16,6 +16,9 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 - **[Suspected Data Exfiltration from PIPd Employee](https://github.com/TechwithKyle/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 - **[New-Zero-Day-Announced-on-News-PwnCrypt-ransomware](https://github.com/TechwithKyle/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-/tree/main)**
 
+## 🛡 Incident Response with Microsoft Sentinel 
+
+- 
 
 <hr/>
 
