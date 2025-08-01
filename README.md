@@ -19,6 +19,7 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 ## 📢🚨🛡 Incident Response with Microsoft Sentinel 
 
 - **[Virtual Machine Brute Forcing](https://github.com/TechwithKyle/Virtual-Machine-Brute-Forcing/tree/main)**
+- **[PowerShell Suspicious Web Request](https://github.com/TechwithKyle/PowerShell-Suspicious-Web-Request/tree/main)**
 
 <hr/>
 
