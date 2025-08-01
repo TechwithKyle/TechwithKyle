@@ -16,7 +16,7 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 - **[Suspected Data Exfiltration from PIPd Employee](https://github.com/TechwithKyle/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 - **[New-Zero-Day-Announced-on-News-PwnCrypt-ransomware](https://github.com/TechwithKyle/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-/tree/main)**
 
-## 🛡 Incident Response with Microsoft Sentinel 
+## 📢🚨🛡 Incident Response with Microsoft Sentinel 
 
 - **[Virtual Machine Brute Forcing](https://github.com/TechwithKyle/Virtual-Machine-Brute-Forcing/tree/main)**
 
