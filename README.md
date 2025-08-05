@@ -15,6 +15,8 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 - **[Sudden-Network-Slowdowns](https://github.com/TechwithKyle/Sudden-Network-Slowdowns)**
 - **[Suspected Data Exfiltration from PIPd Employee](https://github.com/TechwithKyle/Suspected-Data-Exfiltration-from-PIPd-Employee/tree/main)**
 - **[New-Zero-Day-Announced-on-News-PwnCrypt-ransomware](https://github.com/TechwithKyle/New-Zero-Day-Announced-on-News-PwnCrypt-ransomware-/tree/main)**
+- **[OAuth-Consent-Phishing-Simulation](https://github.com/TechwithKyle/OAuth-Consent-Phishing-Simulation/tree/main)**
+
 
 ## 📢🚨🛡 Incident Response with Microsoft Sentinel 
 
