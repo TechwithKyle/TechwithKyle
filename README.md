@@ -6,7 +6,6 @@ I’m deeply committed to cybersecurity and enjoy tackling complex challenges th
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/TechwithKyle/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
